@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "formidable": "^3.5.1"
+  },
+  "name": "simple-upload-server",
+  "version": "1.0.0",
+  "description": "using-formidable-nodejs-and-w3css",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arman-ataei",
+  "license": "ISC"
+}
